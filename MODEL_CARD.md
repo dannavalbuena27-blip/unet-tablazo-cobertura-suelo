@@ -105,8 +105,6 @@ Las métricas consideradas incluyen:
 
 - Exactitud de clasificación.
 - Precisión.
-- Recall.
-- Intersección sobre Unión (IoU).
 
 Los valores finales dependerán del proceso de entrenamiento y validación del modelo.
 
