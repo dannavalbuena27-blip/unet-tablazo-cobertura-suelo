@@ -11,7 +11,7 @@ U-Net para detección de transformaciones de cobertura del suelo
 **Fecha de creación:**  
 Octubre de 2026
 
-**Autores de la ficha:**  
+**Autor de la ficha:**  
 Danna Valentina Valbuena Robayo
 
 **Tipo de modelo:**  
