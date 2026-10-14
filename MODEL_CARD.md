@@ -1,5 +1,16 @@
 # Model Card: U-Net para segmentación de coberturas terrestres en la Cuchilla El Tablazo
 
+## Resumen del modelo
+
+| Característica | Descripción |
+|---|---|
+| Modelo | U-Net |
+| Tipo | Red neuronal convolucional (CNN) |
+| Tarea | Segmentación semántica de imágenes |
+| Área de aplicación | Cuchilla El Tablazo, Subachoque |
+| Datos principales | Imágenes Sentinel-2 |
+| Periodo analizado | 2017 - 2024 |
+
 ## 1. Información del modelo
 
 **Nombre del modelo:**  
