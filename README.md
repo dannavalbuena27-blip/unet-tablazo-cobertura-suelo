@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de inteligencia artifici
 
 El modelo utiliza imágenes satelitales Sentinel-2 correspondientes a los años 2017 y 2024, junto con información espectral y datos de referencia, para realizar una segmentación de coberturas terrestres píxel por píxel. La red neuronal busca identificar categorías como vegetación natural de páramo, bosque y vegetación arbórea, pastos y áreas agropecuarias, suelo desnudo o intervenido y agua.
 
-## Modelo de inteligencia artificial
+## Modelo Utilizado
 
 El modelo utilizado corresponde a una arquitectura **U-Net**, una red neuronal convolucional diseñada para tareas de segmentación semántica de imágenes. Su función es analizar información espacial y espectral para asignar una clase de cobertura a cada píxel de la imagen de entrada.
 
